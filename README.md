@@ -4,7 +4,7 @@
 I currently have two major projects I am working on outside of school:
 1) A Python GUI project focused on being a resource for Final Fantasy 14 users to be able to view arms, armor, and even items for various classes with the images of such items being derived directly from the site while the information is independently typed in by myself.  Once finished putting everything in I expect to make a few changes to it before launching it, mostly cosmetic.  My goal for this project was something I could use while playing the game and it could be open on a second window without needing to have to tab out of the game and open a browser; I am using Atlassian's Jira to track my progress in the project.
 ![](ovj839o79l561.gif)
-2) This is a mobile project that I am building for the Air Force career field I am in, that much I can say; I am currently waiting to push this into the Air Force's GAINS program; this project is set to private currently.  Will update this once that is done.
+2) A mobile application that is being built to help the 2T2 Career Field in the Air Force for both training and operational environments.  The application uses Syncfusion tools to display PDFs for both forms and any training material needed; it also can be used to calculate center of balance for when inspecting cargo or building cargo that is to go onto an aircraft.  Started off as an application to help with Joint Inspections but grew into an idea to work for the entire 2T2 career field.
 
 Thank you for dropping by!
 -Daniel
